@@ -1,7 +1,7 @@
 ## Olá, eu sou a Marina 👋
 
 Analista de Dados, cursando Pós-Graduação em Ciência de Dados e Big Data Analytics. Graduada
-em Ciências Biológicas, fiz transição de carreira para TI, já que  
+em Ciências Biológicas, fiz transição de carreira para TI.  
 
 
 ### 📲Conecte-se comigo:
