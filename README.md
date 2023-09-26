@@ -1,7 +1,9 @@
-## Olá, eu sou a Marina 👋
+## Olá, aqui é a Marina 👋
 
-Analista de Dados, cursando Pós-Graduação em Ciência de Dados e Big Data Analytics. Graduada
-em Ciências Biológicas, fiz transição de carreira para TI.  
+Sou Analista de Dados e comecei analisando dados científicos na minha graduação em Ciências Biológicas, 
+fiz transição de carreira e agora trabalho com as principais ferramentas e linguagens em Business Intelligence.
+Estou cursando uma Pós-Graduação em Ciência de Dados e Big Data Analytics. E aqui é meu portifólio, vem dá uma olhada. 😉
+
 
 
 ### 📲Conecte-se comigo:
@@ -43,6 +45,8 @@ em Ciências Biológicas, fiz transição de carreira para TI.
 [![Financials_Transactions](https://github-readme-stats.vercel.app/api/pin/?username=Mecoaliza&repo=Financials_Transactions&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Mecoaliza/Financials_Transactions)
 
 [![CEPE](https://github-readme-stats.vercel.app/api/pin/?username=Mecoaliza&repo=CEPE&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Mecoaliza/CEPE)
+
+[![Estatística](https://github-readme-stats.vercel.app/api/pin/?username=Mecoaliza&repo=sampling&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Mecoaliza/sampling)
 
 
 ### 📝 Meus Principais Artigos
