@@ -1,8 +1,9 @@
-## Olá, aqui é a Marina 👋
+## Hello, i'm Marina 👋
 
-Sou Analista de Dados e comecei analisando dados científicos na minha graduação em Ciências Biológicas, 
-fiz transição de carreira e agora trabalho com as principais ferramentas e linguagens em Business Intelligence.
-Estou cursando uma Pós-Graduação em Ciência de Dados e Big Data Analytics. E aqui é meu portifólio, vem dá uma olhada. 😉
+Currently, I work as a Python developer, handling APIs, databases, and process automation on a daily basis. I also provide support to
+the data department due to my previous experience, and I possess skills in SQL, MySQL, Power BI, and PySpark. Additionally, I have
+knowledge of other programming languages such as C#, VB.Net, and R. 
+I am pursuing a postgraduate degree in Data Science and Big Data Analytics. Here is my portfolio; come take a look 😉
 
 
 
