@@ -45,9 +45,9 @@ I am pursuing a postgraduate degree in Data Science and Big Data Analytics. Here
 
 [![Financials_Transactions](https://github-readme-stats.vercel.app/api/pin/?username=Mecoaliza&repo=Financials_Transactions&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Mecoaliza/Financials_Transactions)
 
-[![CEPE](https://github-readme-stats.vercel.app/api/pin/?username=Mecoaliza&repo=CEPE&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Mecoaliza/CEPE)
+[![API REST](https://github-readme-stats.vercel.app/api/pin/?username=Mecoaliza&repo=api_rest&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Mecoaliza/api_rest)
 
-[![Estatística](https://github-readme-stats.vercel.app/api/pin/?username=Mecoaliza&repo=sampling&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Mecoaliza/sampling)
+[![Estatística](https://github-readme-stats.vercel.app/api/pin/?username=Mecoaliza&repo=lms_analise&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Mecoaliza/lms_analise)
 
 
 ### 📝 Meus Principais Artigos
